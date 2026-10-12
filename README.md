@@ -67,7 +67,7 @@ FlexPlayはAndroidに内蔵の英語の音声認識を使うので、音声を�
 1. スマホのブラウザで最新版のページを開き、`flexplay-<版>-android.apk` をダウンロードして開きます。
 2. 「この提供元からの不明なアプリをインストールすることはできません」と表示されたら「設定」を押して、**この提供元のアプリを許可**をオンにしてから戻ります。続けて「インストール」を押します（Google Play プロテクトの確認が表示されたら、内容を確かめてから進めてください）。
 
-   <img src="images/android-unknown-source.png" width="300" alt="提供元不明のアプリの許可">
+   <table><tr><th>スマホ：提供元不明のアプリの許可</th></tr><tr><td valign="top" align="center"><img src="images/android-unknown-source.png" width="365" height="320" alt="スマホ：提供元不明のアプリの許可"></td></tr></table>
 
 3. FlexPlayを開き、使いたい動画アプリを選んで「ライブ字幕を開始」を押します。必要な許可が順番に表示されるので、許可してください。
 
@@ -81,11 +81,7 @@ FlexPlayはAndroidに内蔵の英語の音声認識を使うので、音声を�
 | 画面の共有（「画面全体を共有」を選ぶ） | Androidでは再生中の音声をこの仕組みで受け取るため（画面と音声は保存も送信もしません） |
 | ユーザー補助（FlexPlay 再生・字幕サポート） | Prime VideoとNetflixで再生位置を操作するためと、Netflixの字幕を読み取るため（使う場合だけ） |
 
-<p align="center">
-<img src="images/android-perm-audio.png" width="250" alt="音声の録音の許可">
-<img src="images/android-notification-access.png" width="250" alt="通知へのアクセスの許可">
-<img src="images/android-share-screen.png" width="250" alt="画面全体を共有">
-</p>
+<table><tr><th>音声の録音の許可</th><th>通知へのアクセスの許可</th><th>画面の共有（「画面全体を共有」を選ぶ）</th></tr><tr><td valign="top" align="center"><img src="images/android-perm-audio.png" width="370" height="239" alt="音声の録音の許可"></td><td valign="top" align="center"><img src="images/android-notification-access.png" width="241" height="239" alt="通知へのアクセスの許可"></td><td valign="top" align="center"><img src="images/android-share-screen.png" width="244" height="239" alt="画面の共有（「画面全体を共有」を選ぶ）"></td></tr></table>
 
 ### PC（Chrome）
 
@@ -93,7 +89,7 @@ FlexPlayはAndroidに内蔵の英語の音声認識を使うので、音声を�
 2. Chromeのアドレス欄に`chrome://extensions`と入力して開き、右上の**デベロッパー モード**をオンにします。
 3. **パッケージ化されていない拡張機能を読み込む**を押して、展開したフォルダ（`manifest.json`が入っているフォルダ）を選びます。
 
-   <img src="images/chrome-extensions.png" width="720" alt="Chromeの拡張機能ページ">
+   <table><tr><th>PC：Chromeの拡張機能ページ</th></tr><tr><td valign="top" align="center"><img src="images/chrome-extensions.png" width="858" height="161" alt="PC：Chromeの拡張機能ページ"></td></tr></table>
 
 4. ツールバーのパズルのアイコンを押し、FlexPlayの**ピン**を押してツールバーに固定します。
 
@@ -106,10 +102,7 @@ FlexPlayはChrome ウェブストアを通さずに配布しているので、Ch
 - **スマホ**：FlexPlayの「設定」→「API設定」でAPIキーを入力して、「保存して接続確認」を押します。OpenAIを使う場合は送信先（Base URL）と解説モデルを変える必要はありません。
 - **PC**：ツールバーのFlexPlayを押してサイドパネルを開き、「設定」→「語句解説のAPI」でAPIキーを入力して、「接続を確認して保存」を押します。
 
-<p align="center">
-<img src="images/android-settings.png" width="260" alt="スマホの設定">
-<img src="images/pc-settings.png" width="300" alt="PCの設定">
-</p>
+<table><tr><th>スマホの設定</th><th>PCの設定（サイドパネル）</th></tr><tr><td valign="top" align="center"><img src="images/android-settings.png" width="276" height="560" alt="スマホの設定"></td><td valign="top" align="center"><img src="images/pc-settings.png" width="400" height="560" alt="PCの設定（サイドパネル）"></td></tr></table>
 
 APIキーはスマホでは暗号化してスマホの中に保存し、PCではこのChromeの拡張機能の中だけに保存します。APIキーは同期しません。
 
@@ -130,10 +123,7 @@ APIキーはスマホでは暗号化してスマホの中に保存し、PCでは
 2. 画面の共有について聞かれたら「**画面全体を共有**」を選びます。
 3. 準備ができたら動画アプリに戻って動画を再生します。
 
-<p align="center">
-<img src="images/android-home.png" width="260" alt="FlexPlayのホーム">
-<img src="images/android-captions.png" width="300" alt="YouTubeアプリの上に出したFlexPlayの英語字幕">
-</p>
+<table><tr><th>FlexPlayのホーム</th><th>YouTubeアプリの上のFlexPlayの字幕</th></tr><tr><td valign="top" align="center"><img src="images/android-home.png" width="270" height="546" alt="FlexPlayのホーム"></td><td valign="top" align="center"><img src="images/android-captions.png" width="589" height="546" alt="YouTubeアプリの上のFlexPlayの字幕"></td></tr></table>
 
 ### 字幕の操作
 
@@ -149,10 +139,7 @@ APIキーはスマホでは暗号化してスマホの中に保存し、PCでは
 
 字幕の背景とボタンの透明度は「設定」で変えられます。
 
-<p align="center">
-<img src="images/android-explain.png" width="280" alt="単語を長押しして開いた解説">
-<img src="images/android-sentence.png" width="280" alt="文をタップして開いた文全体の意味">
-</p>
+<table><tr><th>単語を長押しした時の解説</th><th>文をタップした時の解説</th></tr><tr><td valign="top" align="center"><img src="images/android-explain.png" width="448" height="560" alt="単語を長押しした時の解説"></td><td valign="top" align="center"><img src="images/android-sentence.png" width="360" height="560" alt="文をタップした時の解説"></td></tr></table>
 
 ### 他のアプリの英文を調べる
 
@@ -162,27 +149,21 @@ APIキーはスマホでは暗号化してスマホの中に保存し、PCでは
 
 開いた画面で調べたい単語を長押しします。
 
-<p align="center">
-<img src="images/android-lookup-menu.png" width="360" alt="テキスト選択メニューのFlexPlayで調べる">
-<img src="images/android-lookup.png" width="260" alt="選んだ英文の解説">
-</p>
+<table><tr><th>テキスト選択メニューの「FlexPlayで調べる」</th></tr><tr><td valign="top" align="center"><img src="images/android-lookup-menu.png" width="480" height="132" alt="テキスト選択メニューの「FlexPlayで調べる」"></td></tr></table>
+
+<table><tr><th>選んだ英文の解説</th></tr><tr><td valign="top" align="center"><img src="images/android-lookup.png" width="314" height="520" alt="選んだ英文の解説"></td></tr></table>
 
 ### 単語帳
 
 解説の「単語帳に登録」で保存した語彙はホームの「**単語帳**」で見られます。意味と例文と、調べた時の字幕の一文も一緒に表示されます。いらない語彙は「削除」で消せます（同期している場合はほかの端末からも消えます）。
 
-<p align="center">
-<img src="images/android-vocab.png" width="260" alt="単語帳">
-</p>
+<table><tr><th>単語帳</th></tr><tr><td valign="top" align="center"><img src="images/android-vocab.png" width="276" height="560" alt="単語帳"></td></tr></table>
 
 ### ウィジェット
 
 ホーム画面を長押しして「ウィジェット」→「**FlexPlay 単語**」を選んで置きます。ロック画面にも置けます（置き方は機種によって違います）。ウィジェットには登録した語彙の表現・発音・意味・例文が表示されます。「**次へ**」を押すと次の語彙に替わります。一度表示した語彙は30分後・6時間後・1日後・3日後・7日後と間隔を広げてもう一度表示されます。
 
-<p align="center">
-<img src="images/android-lockscreen.png" width="300" alt="ロック画面のウィジェット">
-<img src="images/android-widget.png" width="300" alt="ホーム画面のウィジェット">
-</p>
+<table><tr><th>ロック画面のウィジェット</th><th>ホーム画面のウィジェット</th></tr><tr><td valign="top" align="center"><img src="images/android-lockscreen.png" width="349" height="330" alt="ロック画面のウィジェット"></td><td valign="top" align="center"><img src="images/android-widget.png" width="509" height="330" alt="ホーム画面のウィジェット"></td></tr></table>
 
 ## 使い方（PC）
 
@@ -190,9 +171,7 @@ APIキーはスマホでは暗号化してスマホの中に保存し、PCでは
 
 YouTube・Netflix・Prime Videoで作品を開くと、FlexPlayの英語字幕が動画の上に表示され、字幕の一覧が動画の横に表示されます。一覧の行を押すとその場面に移動します。
 
-<p align="center">
-<img src="images/pc-cap.png" width="720" alt="Netflixで英語字幕と日本語訳と字幕の一覧を表示した画面">
-</p>
+<table><tr><th>Netflixの英語字幕・日本語訳・字幕の一覧</th></tr><tr><td valign="top" align="center"><img src="images/pc-cap.png" width="859" height="484" alt="Netflixの英語字幕・日本語訳・字幕の一覧"></td></tr></table>
 
 | 一覧の操作 | できること |
 | --- | --- |
@@ -202,10 +181,9 @@ YouTube・Netflix・Prime Videoで作品を開くと、FlexPlayの英語字幕�
 
 字幕もドラッグして好きな場所に動かせます（動画の外にも置けます）。字幕と一覧の背景の透明度はサイドパネルの「設定」→「字幕の表示」で変えられます。
 
-<p align="center">
-<img src="images/pc-float.png" width="420" alt="浮かせて左に動かした字幕の一覧">
-<img src="images/pc-fit.png" width="420" alt="画面に合わせて動画の横に並べた字幕の一覧">
-</p>
+<table><tr><th>「浮かせる」で左に動かした一覧</th></tr><tr><td valign="top" align="center"><img src="images/pc-float.png" width="760" height="428" alt="「浮かせる」で左に動かした一覧"></td></tr></table>
+
+<table><tr><th>「画面に合わせる」で動画の横に並べた一覧</th></tr><tr><td valign="top" align="center"><img src="images/pc-fit.png" width="760" height="428" alt="「画面に合わせる」で動画の横に並べた一覧"></td></tr></table>
 
 ### 字幕の操作
 
@@ -219,17 +197,13 @@ YouTube・Netflix・Prime Videoで作品を開くと、FlexPlayの英語字幕�
 | 「訳」 | 日本語訳を並べて表示します（日本語字幕がある作品だけ） |
 | 「−」「＋」 | 再生速度を変えます |
 
-<p align="center">
-<img src="images/pc-explain.png" width="720" alt="単語をクリックして開いた解説">
-</p>
+<table><tr><th>単語をクリックした時の解説</th></tr><tr><td valign="top" align="center"><img src="images/pc-explain.png" width="859" height="484" alt="単語をクリックした時の解説"></td></tr></table>
 
 ### サイドパネル
 
 ツールバーのFlexPlayを押すとサイドパネルが開きます。サイドパネルには**復習カード**（「次へ」で次の語彙）と**単語帳**（「詳しく」で解説、「削除」で削除）と**設定**があります。
 
-<p align="center">
-<img src="images/pc-sidepanel.png" width="300" alt="PCのサイドパネル">
-</p>
+<table><tr><th>サイドパネル（復習カードと単語帳）</th></tr><tr><td valign="top" align="center"><img src="images/pc-sidepanel.png" width="400" height="560" alt="サイドパネル（復習カードと単語帳）"></td></tr></table>
 
 ## 更新のしかた
 
