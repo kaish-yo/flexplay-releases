@@ -260,3 +260,7 @@ shasum -a 256 -c SHA256SUMS.txt --ignore-missing
 - **スマホ**：FlexPlayをアンインストールすると、スマホの中の単語帳・設定・APIキーが消えます。
 - **PC**：`chrome://extensions`でFlexPlayを「削除」すると、Chromeの中の単語帳・設定・APIキーが消えます。展開したフォルダは手で削除してください。
 - **Googleドライブの同期データ**：[Googleドライブ](https://drive.google.com/)の設定（⚙）→「アプリの管理」→ FlexPlayの「オプション」→「**非表示のアプリデータを削除**」で消せます。FlexPlayへのアクセスの許可はGoogleアカウントの「[サードパーティ製のアプリとサービス](https://myaccount.google.com/connections)」で取り消せます。
+
+## ライセンス
+
+個人的で営利を目的としない利用に限り、無料で使えます。再配布・改変・販売はできません。詳しくは[LICENSE](LICENSE)を参照してください。
