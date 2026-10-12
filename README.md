@@ -68,8 +68,6 @@ Googleでサインインすると、**スマホとPCで同じ単語帳**を使�
 
 [**最新版のリリースページ**](https://github.com/kaish-yo/flexplay-releases/releases/latest)の「Assets」から、使う方を選んでください。
 
-<img src="images/release-assets.png" width="340" align="right" alt="リリースページのAssets">
-
 | ファイル | 用途 |
 | --- | --- |
 | `flexplay-<版>-android.apk` | スマホ（Android）用のアプリ |
@@ -78,7 +76,7 @@ Googleでサインインすると、**スマホとPCで同じ単語帳**を使�
 
 その版で何が変わったかは、リリースページの「変更点」に書いています。
 
-<br clear="right">
+<p align="center"><img src="images/release-assets.png" width="360" alt="リリースページのAssets"></p>
 
 ## 入れ方
 
@@ -150,7 +148,7 @@ APIキーは、スマホでは端末内で暗号化して、PCではこのChrome
 2. 画面の共有を聞かれたら「**画面全体を共有**」を選びます。
 3. 準備ができたら動画アプリに戻って再生します。
 
-<img src="images/android-home.png" width="260" align="right" alt="FlexPlayのホーム">
+<p align="center"><img src="images/android-home.png" width="260" alt="FlexPlayのホーム"></p>
 
 ### 字幕の操作
 
@@ -165,8 +163,6 @@ APIキーは、スマホでは端末内で暗号化して、PCではこのChrome
 | ホームか通知の「**字幕取得を終了**」 | 字幕づくりそのものを止める |
 
 字幕の背景やボタンの透明度は「設定」で変えられます。
-
-<br clear="right">
 
 ### 他のアプリの英文を調べる
 
