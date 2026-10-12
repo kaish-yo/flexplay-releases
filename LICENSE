@@ -1,0 +1,64 @@
+FlexPlay License
+
+Copyright (c) 2026 kaish-yo. All rights reserved.
+
+This license covers the FlexPlay Android app (APK), the FlexPlay Chrome extension
+(ZIP) and the other files published in this repository and its releases
+(together, "the Software").
+
+1. Permission. You may download, install and use the Software free of charge for
+   your own personal, non-commercial use, on as many of your own devices as you
+   like.
+
+2. Restrictions. You may not, without written permission from the copyright
+   holder:
+   a. redistribute, publish, sell, rent or sublicense the Software or any part
+      of it, including by uploading it to another website or app store;
+   b. modify, translate or create derivative works of the Software;
+   c. use the Software for a commercial purpose or as part of a paid service.
+
+   Linking to this repository or its release pages is allowed.
+
+3. Third-party services. The Software works with video services, Google
+   accounts and the AI API you configure. You are responsible for following the
+   terms of those services. The Software is not affiliated with or endorsed by
+   Netflix, Amazon, Google, Hulu or OpenAI.
+
+4. No warranty. The Software is provided "as is", without warranty of any kind,
+   express or implied, including but not limited to the warranties of
+   merchantability, fitness for a particular purpose and non-infringement.
+
+5. Limitation of liability. In no event shall the copyright holder be liable for
+   any claim, damages or other liability, including loss of data or charges
+   from the AI API you configure, arising from or in connection with the
+   Software or its use.
+
+6. Termination. This permission ends automatically if you break these terms.
+   You must then delete all copies of the Software.
+
+---
+
+FlexPlay ライセンス（日本語訳）
+
+Copyright (c) 2026 kaish-yo. All rights reserved.
+
+このライセンスは、このリポジトリとそのリリースで公開しているFlexPlayのAndroidアプリ（APK）・Chrome拡張（ZIP）・そのほかのファイル（まとめて「本ソフトウェア」）に適用されます。
+
+1. 許可：本ソフトウェアは、個人的で営利を目的としない利用に限り、無料でダウンロード・インストール・使用できます。自分の端末であれば台数の制限はありません。
+
+2. 禁止事項：著作権者の書面による許可がない限り、次のことはできません。
+   a. 本ソフトウェアの全部または一部を再配布・公開・販売・貸与・再許諾すること（ほかのウェブサイトやアプリストアに置くことを含みます）
+   b. 本ソフトウェアを改変・翻訳すること、または本ソフトウェアをもとに別のものを作ること
+   c. 本ソフトウェアを営利の目的や有料のサービスの一部として使うこと
+
+   このリポジトリやリリースのページへのリンクは自由に張れます。
+
+3. 他社のサービス：本ソフトウェアは動画配信サービス・Googleアカウント・利用者が設定したAIのAPIと連携して動きます。これらのサービスの利用規約は利用者自身が守ってください。本ソフトウェアはNetflix・Amazon・Google・Hulu・OpenAIとは関係がなく、これらの会社が認めたものでもありません。
+
+4. 無保証：本ソフトウェアは現状のまま提供します。商品性・特定の目的への適合性・権利を侵害していないことを含め、明示か黙示かを問わず一切の保証をしません。
+
+5. 責任の制限：本ソフトウェアやその使用に関連して生じた請求・損害・責任（データの消失や、利用者が設定したAIのAPIの利用料金を含みます）について、著作権者は一切の責任を負いません。
+
+6. 終了：これらの条件に違反した場合、この許可は自動的に終了します。その場合は本ソフトウェアの複製をすべて削除してください。
+
+英語の原文と日本語訳の内容が異なる場合は、英語の原文が優先します。
