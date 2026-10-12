@@ -10,7 +10,7 @@
 
 </div>
 
-https://github.com/user-attachments/assets/f89924b2-48d4-4613-87f8-8794680d6869
+https://github.com/user-attachments/assets/450bdff9-e051-43a4-b99f-bc95db145f7a
 
 NetflixとPrime VideoとYouTubeをいつものアプリやブラウザで観ながら使う英語学習ツールです。字幕で分からなかった語彙はその場で調べて単語帳に登録できます。登録した語彙は忘れかけた頃にスマホのロック画面とホーム画面に表示されます。
 
