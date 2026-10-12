@@ -10,7 +10,10 @@
 
 [**最新版をダウンロード**](https://github.com/kaish-yo/flexplay-releases/releases/latest) ・ [入れ方](#入れ方) ・ [使い方](#使い方スマホ) ・ [困ったとき](#困ったとき) ・ [プライバシーポリシー](https://kaish-yo.github.io/flexplay-site/privacy.html)
 
-<img src="images/android-captions.gif" height="300" alt="スマホでYouTubeの上に英語字幕を出し、単語を長押しして解説を開く">&nbsp;&nbsp;<img src="images/pc-youtube.gif" height="300" alt="PCのChromeでYouTubeの字幕の単語をクリックし、解説を開いて単語帳に登録する">
+<table><tr>
+<td width="29%"><img src="images/android-demo.gif" width="100%" alt="スマホでYouTubeの上に英語字幕を出し、単語を長押しして解説を開く"></td>
+<td width="71%"><img src="images/pc-demo.gif" width="100%" alt="PCのChromeでYouTubeの字幕の単語をクリックし、解説を開いて単語帳に登録する"></td>
+</tr><tr><td align="center">スマホ</td><td align="center">PC（Chrome）</td></tr></table>
 
 </div>
 
