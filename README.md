@@ -4,13 +4,13 @@
 
 # FlexPlay
 
-**観ている作品の英語を覚えるまで繰り返し見せます。**
+**英語学習に特化した字幕表示および語彙学習のツール**
 
 [**最新版をダウンロード**](https://github.com/kaish-yo/flexplay-releases/releases/latest) ・ [入れ方](#入れ方) ・ [使い方](#使い方スマホ) ・ [困ったとき](#困ったとき) ・ [プライバシーポリシー](https://kaish-yo.github.io/flexplay-site/privacy.html)
 
 </div>
 
-https://github.com/user-attachments/assets/b826e017-15dc-45b3-b5ee-f536b6bbc4b5
+https://github.com/user-attachments/assets/f89924b2-48d4-4613-87f8-8794680d6869
 
 NetflixとPrime VideoとYouTubeをいつものアプリやブラウザで観ながら使う英語学習ツールです。字幕の分からない語はその場で調べて単語帳に登録できます。登録した語は忘れかけた頃にスマホのロック画面とホーム画面に表示されます。
 
